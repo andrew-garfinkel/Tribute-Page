@@ -1,0 +1,39 @@
+
+
+html{
+  /* easier to calculate rem bc 1rem === 10px */
+  font-size: 10px;
+}
+
+body{
+  text-align: center;
+  margin: 0;
+}
+
+#main{
+  margin: 0px 10px 0px 10px;
+  /* width: 20%; */
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+
+
+#img-div{
+  background-color: white;
+  /* width: 50%; */
+  /* margin: 0px auto; */
+  padding: 20px;
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
