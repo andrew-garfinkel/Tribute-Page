@@ -24,16 +24,20 @@ body{
 /* image section */
 
 #img-div{
-  background-color: white;
+  background: white;
   /* width: 50%; */
   /* margin: 0px auto; */
-  padding: 20px;
+  padding: 10px;
+  margin: 0;
 }
 
 #image{
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
+  margin: 0 auto;
+  display: block;
 }
+
 
 figcaption{
   margin: 5px 0;
@@ -50,7 +54,7 @@ figcaption{
 
 ul{
   text-align: left;
-  max-width: 80%;
+  max-width: 550px;
   /* border: 2px solid red; */
   margin: 0 auto;
   font-size: 1.4rem;
